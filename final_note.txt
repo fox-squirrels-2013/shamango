@@ -1,0 +1,10 @@
+Hi guys,
+I've gone to China, and I'll miss you.
+
+Here is the push, which I believe is up to date.  As for Heroku, 
+the easiest thing to do was to delete the Shamango project directory.
+Now you are free to create and control it.  I doubt anyone will snatch up
+shamango between now when I've deleted it and when you will create it.
+
+Take care,
+D
